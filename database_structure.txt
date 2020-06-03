@@ -1,0 +1,20 @@
+
+create database nandu;
+use nandu;
+CREATE TABLE IF NOT EXISTS `contacts` (
+  `roll_no` int(10) NOT NULL,
+  `name` varchar(30) NOT NULL,
+  `email` varchar(50) NOT NULL,
+  `gender` varchar(10) NOT NULL,
+  `contact` varchar(10) NOT NULL,
+  `dob` varchar(20) NOT NULL,
+  `address` varchar(100) NOT NULL,
+  PRIMARY KEY (`roll_no`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `nandu`
+--
+(carried out by using xampp and phpmyadmin on localhost)
+
+
