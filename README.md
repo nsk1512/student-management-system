@@ -1,16 +1,7 @@
-# python-project
-INTRODUCTION:
-      
-  This project "STUDENT/CONTACT DETAIL MANAGEMENT SYSTEM" provides us a simple interface for maintenance
-of student's information in educational institutes or a customers contact details if used for
-commercial purposes.
-Achieving this manually could be tedious and very time consuming . Thus,the various (7) features involved in
-this project will help us to store the background details and personal information of a student very easily.
+# Student Management System in Python 👩‍🏫
 
-AIM OF THIS PROJECT:
-    
-  Without such a system , it is tedious for any organisation to store,maintain,update,delete and search for
- records that include a huge number of people.
- This project is thus aimed towards achieving the above purpose with a user friendly interface built and executed
- in Python using Tkinter module and pyMySQL.
+## Introduction
+<p> This software, "Student Detail Management System," gives us a simple interface for maintaining student information at educational institutes or a customer's contact information if utilised for commercial reasons. Manually accomplishing this might be laborious and time consuming. Thus, the many capabilities included in this project will allow us to conveniently maintain a student's background details and personal information. </p>
+
+
 
