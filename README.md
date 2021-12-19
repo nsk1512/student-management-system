@@ -8,6 +8,21 @@
 * [Python](https://www.python.org/)
 * [MySQL](https://dev.mysql.com/doc/)
 * [Tkinter](https://docs.python.org/3/library/tk.html)
+* [phpmyadmin](https://www.phpmyadmin.net/docs/)
+* [XAMPP](https://www.apachefriends.org/docs/)
+
+### Features
+1. Add a student to the database
+2. Delete a student from the database
+3. Update the details of an existing student
+4. Clear the console
+5. Search by: <br>
+        - Name <br>
+        - Contact Number <br>
+        - Roll number
+
+### Dashboard Screenshot
+![ML](./student.png)
 
 
  
